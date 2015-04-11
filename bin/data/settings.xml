@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Pygmy>
+    <Font file="fonts/Arial.ttf" size="10" red="0" green="0" blue="0" />
+    <Labels showLeafLabels="1" showMetadataLabels="0" />
+    <Zoom default="1.5" max="6" />
+    <Mouse scrollSensitivity="157" translationSensitivity="15.8" zoomSensitivity="0.015" />
+    <Layout borderX="10" borderY="20" labelOffset="3" distanceOffsetX="3" distanceOffsetY="3" />
+    <Overview lineWidth="1" colourTree="1" showPositionOverlay="1" />
+    <ColourMapVis width="20" show="1" showTickMarks="0" ignoreLeafNodes="1" />
+    <MissingDataColour red="0" green="0" blue="0" />
+    <DefaultTreeColour red="0" green="0" blue="0" />
+    <ColourMapLabel fontSize="14" fontPrecision="3" scientific="0" valuesToShow="9" red="0" green="0" blue="0" />
+    <Tree lineWidth="1" optimizeLeafOrdering="0" />
+    <InternalLabels showLabels="0" field="Parsimony Data" position="Above Left" fontSize="10" fontPrecision="2" scientific="0" red="0" green="0" blue="0" />
+</Pygmy>

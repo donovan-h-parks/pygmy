@@ -1,0 +1,1238 @@
+Sequence Id,Country,ethnic_info,structure_population
+ST1,New Zealand,Maori,hpEurope
+ST2,New Zealand,Samoan,hpEurope
+ST3,New Zealand,Samoan,hpEurope
+ST4,New Zealand,Maori,hspMaori
+ST5,New Zealand,Maori,hspMaori
+ST6,New Zealand,Maori,hspMaori
+ST7,New Zealand,Maori,hspMaori
+ST8,New Zealand,Maori,hspMaori
+ST9,New Zealand,Maori,hspMaori
+ST10,New Zealand,Tongan,hspMaori
+ST11,New Zealand,Tongan,hspMaori
+ST12,New Zealand,Maori,hspMaori
+ST13,New Zealand,Maori,hspMaori
+ST14,New Zealand,Samoan,hspMaori
+ST15,New Zealand,Maori,hspMaori
+ST16,New Zealand,Samoan,hspMaori
+ST17,New Zealand,Maori,hspMaori
+ST18,New Zealand,Maori,hspMaori
+ST19,New Zealand,Samoan,hspMaori
+ST20,New Zealand,Maori,hspMaori
+ST21,New Zealand,Samoan,hspMaori
+ST22,New Zealand,Maori,hspMaori
+ST23,New Zealand,Samoan,hspMaori
+ST24,New Zealand,Samoan,hspMaori
+ST25,New Zealand,Maori,hspMaori
+ST26,New Zealand,Maori,hspMaori
+ST27,New Zealand,Maori,hspWAfrica1
+ST28,New Zealand,Maori,hspWAfrica1
+ST29,Australia,-,hpEurope
+ST30,Australia,-,hpEurope
+ST31,Australia,-,hpEurope
+ST32,China,-,hspEAsia
+ST33,Singapore,-,hpEurope
+ST34,Singapore,-,hpEurope
+ST35,Singapore,-,hspEAsia
+ST36,Singapore,-,hspEAsia
+ST37,Singapore,-,hspEAsia
+ST38,Singapore,-,hspEAsia
+ST39,Singapore,-,hspEAsia
+ST40,Singapore,-,hspEAsia
+ST41,Singapore,-,hspEAsia
+ST42,Singapore,-,hspEAsia
+ST42,Singapore,-,hspEAsia
+ST43,Singapore,-,hspEAsia
+ST44,Japan,-,hspEAsia
+ST45,Korea,-,hspEAsia
+ST46,Korea,-,hspEAsia
+ST47,Korea,-,hspEAsia
+ST48,Korea,-,hspEAsia
+ST49,Korea,-,hspEAsia
+ST50,Korea,-,hspEAsia
+ST51,Korea,-,hspEAsia
+ST52,Korea,-,hspEAsia
+ST53,Korea,-,hspEAsia
+ST54,Korea,-,hspEAsia
+ST55,Korea,-,hspEAsia
+ST56,Hong Kong,-,hspEAsia
+ST57,India,Muslim,hpEurope
+ST58,India,Muslim,hpEurope
+ST59,India,Muslim,hpEurope
+ST60,India,Muslim,hpEurope
+ST61,India,Muslim,hpEurope
+ST62,India,Muslim,hpEurope
+ST63,India,Muslim,hpEurope
+ST64,India,Muslim,hpEurope
+ST65,India,Muslim,hpEurope
+ST66,India,Muslim,hpEurope
+ST67,India,Muslim,hpEurope
+ST68,India,Muslim,hpEurope
+ST69,India,Muslim,hpEurope
+ST70,India,Muslim,hpEurope
+ST71,India,Muslim,hpEurope
+ST72,India,Muslim,hpEurope
+ST73,India,Muslim,hpEurope
+ST74,Thailand,-,hpEurope
+ST75,Thailand,-,hspEAsia
+ST76,Israel,Russian/Jewish,hpEurope
+ST77,Israel,Yemen/Jewish,hpEurope
+ST78,Israel,Palaestinian,hpEurope
+ST79,Israel,Yemen/Jewish,hpEurope
+ST80,Israel,Russian/Jewish,hpEurope
+ST81,Estonia,-,hpEurope
+ST82,Estonia,-,hpEurope
+ST83,Estonia,-,hpEurope
+ST84,Estonia,-,hpEurope
+ST85,Estonia,-,hpEurope
+ST86,Estonia,-,hpEurope
+ST87,Estonia,-,hpEurope
+ST88,Estonia,-,hpEurope
+ST89,Estonia,-,hpEurope
+ST90,Estonia,-,hpEurope
+ST91,Estonia,-,hpEurope
+ST92,Finland,-,hpEurope
+ST93,Finland,-,hpEurope
+ST94,Finland,-,hpEurope
+ST95,Finland,-,hpEurope
+ST96,Finland,-,hpEurope
+ST97,Finland,-,hpEurope
+ST98,Finland,-,hpEurope
+ST99,Finland,-,hpEurope
+ST100,Finland,-,hpEurope
+ST101,France,-,hpEurope
+ST102,Germany,-,hpEurope
+ST103,Germany,-,hpEurope
+ST104,Germany,-,hpEurope
+ST105,Germany,-,hpEurope
+ST106,Germany,-,hpEurope
+ST107,Germany,-,hpEurope
+ST108,Germany,-,hpEurope
+ST109,Germany,-,hpEurope
+ST110,Germany,-,hpEurope
+ST111,Germany,-,hpEurope
+ST112,Germany,-,hpEurope
+ST113,Germany,-,hpEurope
+ST114,Germany,Turkish,hpEurope
+ST115,Germany,Turkish,hpEurope
+ST116,Germany,Turkish,hpEurope
+ST117,Germany,Turkish,hpEurope
+ST118,Germany,Turkish,hpEurope
+ST119,Germany,Turkish,hpEurope
+ST120,Germany,Turkish,hpEurope
+ST121,Germany,Turkish,hpEurope
+ST122,Germany,Turkish,hpEurope
+ST123,Germany,Turkish,hpEurope
+ST124,Holland,-,hpEurope
+ST125,Lithuania,-,hpEurope
+ST126,Spain,-,hpEurope
+ST127,Spain,-,hpEurope
+ST128,Spain,-,hpEurope
+ST129,Spain,-,hpEurope
+ST130,Spain,-,hpEurope
+ST131,Spain,-,hpEurope
+ST132,Spain,-,hpEurope
+ST133,Spain,-,hpEurope
+ST134,Spain,-,hpEurope
+ST135,Spain,-,hpEurope
+ST136,Spain,-,hpEurope
+ST137,Spain,-,hpEurope
+ST138,Spain,-,hpEurope
+ST139,Spain,-,hpEurope
+ST140,Spain,-,hpEurope
+ST141,Spain,-,hpEurope
+ST142,Spain,-,hpEurope
+ST143,Spain,-,hpEurope
+ST144,Spain,-,hpEurope
+ST145,Spain,-,hpEurope
+ST146,Spain,-,hpEurope
+ST147,Spain,-,hpEurope
+ST148,Spain,-,hpEurope
+ST149,Spain,-,hpEurope
+ST150,Spain,-,hpEurope
+ST151,Spain,-,hpEurope
+ST152,Spain,-,hpEurope
+ST153,Spain,-,hpEurope
+ST154,Spain,Basque,hpEurope
+ST154,Spain,Basque,hpEurope
+ST155,Spain,-,hpEurope
+ST156,Spain,-,hpEurope
+ST157,Spain,-,hpEurope
+ST158,Spain,-,hpEurope
+ST159,Spain,-,hpEurope
+ST160,Spain,-,hpEurope
+ST161,Spain,-,hpEurope
+ST162,Spain,-,hpEurope
+ST163,UK,-,hpEurope
+ST164,UK,-,hpEurope
+ST165,UK,-,hpEurope
+ST166,UK,-,hpEurope
+ST167,UK,-,hpEurope
+ST168,UK,-,hpEurope
+ST169,UK,-,hpEurope
+ST170,UK,-,hpEurope
+ST171,UK,-,hpEurope
+ST172,UK,-,hpEurope
+ST173,UK,-,hpEurope
+ST174,UK,-,hpEurope
+ST175,UK,-,hpEurope
+ST176,UK,-,hpEurope
+ST177,UK,-,hpEurope
+ST178,UK,-,hpEurope
+ST179,UK,-,hpEurope
+ST180,UK,-,hpEurope
+ST181,UK,-,hpEurope
+ST182,UK,-,hspEAsia
+ST183,UK,-,hspWAfrica1
+ST184,UK,Bangladeshi,hpEurope
+ST185,UK,Bangladeshi,hpEurope
+ST186,UK,Bangladeshi,hpEurope
+ST187,UK,Bangladeshi,hpEurope
+ST188,UK,Bangladeshi,hpEurope
+ST189,UK,Bangladeshi,hpEurope
+ST190,UK,Bangladeshi,hpEurope
+ST191,UK,Bangladeshi,hpEurope
+ST192,UK,Bangladeshi,hpEurope
+ST193,Italy,-,hpEurope
+ST194,Italy,-,hpEurope
+ST195,Italy,-,hpEurope
+ST196,Italy,-,hpEurope
+ST197,Italy,-,hpEurope
+ST198,Italy,-,hpEurope
+ST199,USA,white,hspWAfrica1
+ST200,USA,white,hpEurope
+ST201,USA,white,hpEurope
+ST202,USA,white,hspWAfrica1
+ST203,USA,white,hspWAfrica1
+ST204,USA,Black,hpEurope
+ST205,USA,Black,hpEurope
+ST206,USA,Black,hpEurope
+ST207,USA,Black,hspWAfrica1
+ST208,USA,Black,hspWAfrica1
+ST209,USA,Black,hspWAfrica1
+ST210,USA,Black,hspWAfrica1
+ST211,USA,Black,hspWAfrica1
+ST212,USA,Black,hspWAfrica1
+ST213,USA,Black,hspWAfrica1
+ST214,USA,Black,hspWAfrica1
+ST215,USA,Black,hspWAfrica1
+ST216,USA,Black,hspWAfrica1
+ST217,Colombia,Mestizo,hpEurope
+ST218,Colombia,Mestizo,hpEurope
+ST219,Colombia,Mestizo,hpEurope
+ST220,Colombia,Mestizo,hpEurope
+ST221,Colombia,Mestizo,hpEurope
+ST222,Colombia,Mestizo,hpEurope
+ST223,Colombia,Mestizo,hpEurope
+ST224,Colombia,Mestizo,hpEurope
+ST225,Colombia,Mestizo,hpEurope
+ST226,Colombia,Mestizo,hpEurope
+ST227,Colombia,Mestizo,hpEurope
+ST228,Colombia,Mestizo,hspWAfrica1
+ST229,Guatemala,Black,hspWAfrica1
+ST230,Peru,Japanese,hspEAsia
+ST231,Canada,Athabaskan,hspAmerind
+ST231,Canada,Athabaskan,hspAmerind
+ST231,Canada,Athabaskan,hspAmerind
+ST232,Canada,Athabaskan,hspAmerind
+ST233,Canada,Athabaskan,hspAmerind
+ST234,Canada,Athabaskan,hspAmerind
+ST235,USA,Inuit,hpEurope
+ST236,USA,Inuit,hpEurope
+ST237,USA,Inuit,hpEurope
+ST238,USA,Inuit,hspAmerind
+ST239,USA,Inuit,hspAmerind
+ST240,USA,Inuit,hspAmerind
+ST240,USA,Inuit,hspAmerind
+ST241,USA,Inuit,hspAmerind
+ST242,USA,Inuit,hspAmerind
+ST243,USA,Inuit,hspAmerind
+ST244,USA,Inuit,hspAmerind
+ST245,USA,Inuit,hpEurope
+ST246,USA,Inuit,hspAmerind
+ST247,Colombia,Huitoto,hpEurope
+ST248,Colombia,Huitoto,hpEurope
+ST249,Colombia,Huitoto,hpEurope
+ST250,Colombia,Huitoto,hpEurope
+ST251,Colombia,Huitoto,hpEurope
+ST252,Colombia,Huitoto,hpEurope
+ST253,Colombia,Huitoto,hpEurope
+ST254,Colombia,Huitoto,hpEurope
+ST255,Colombia,Huitoto,hpEurope
+ST256,Colombia,Huitoto,hpEurope
+ST257,Colombia,Huitoto,hpEurope
+ST258,Colombia,Huitoto,hpEurope
+ST259,Colombia,Huitoto,hspAmerind
+ST260,Colombia,Huitoto,hspAmerind
+ST261,Colombia,Huitoto,hspAmerind
+ST262,Colombia,Huitoto,hspAmerind
+ST263,Venezuela,Piaroa,hpEurope
+ST264,Venezuela,Piaroa,hpEurope
+ST265,Venezuela,Piaroa,hspAmerind
+ST266,Venezuela,Piaroa,hspWAfrica1
+ST267,South Africa,white,hpEurope
+ST268,South Africa,white,hpEurope
+ST269,South Africa,white,hpEurope
+ST270,South Africa,white,hpEurope
+ST271,South Africa,white,hpEurope
+ST272,South Africa,white,hpEurope
+ST273,South Africa,white,hpEurope
+ST274,South Africa,white,hpEurope
+ST275,South Africa,white,hpEurope
+ST276,South Africa,white,hpEurope
+ST277,South Africa,white,hspSAfrica1
+ST278,South Africa,white,hspSAfrica1
+ST279,South Africa,white,hspSAfrica1
+ST280,South Africa,white,hspSAfrica1
+ST281,South Africa,white,hspSAfrica1
+ST282,South Africa,white,hspSAfrica1
+ST283,South Africa,white,hspSAfrica1
+ST284,South Africa,white,hspSAfrica1
+ST285,South Africa,white,hspSAfrica1
+ST286,South Africa,white,hpAfrica2
+ST287,South Africa,white,hpAfrica2
+ST288,South Africa,white,hpAfrica2
+ST289,South Africa,Indian,hpEurope
+ST290,South Africa,black,hpEurope
+ST291,South Africa,black,hpEurope
+ST292,South Africa,black,hspSAfrica1
+ST293,South Africa,black,hspSAfrica1
+ST294,South Africa,black,hspSAfrica1
+ST295,South Africa,black,hspSAfrica1
+ST296,South Africa,black,hspSAfrica1
+ST297,South Africa,black,hspSAfrica1
+ST298,South Africa,black,hspSAfrica1
+ST299,South Africa,black,hspSAfrica1
+ST299,South Africa,black,hspSAfrica1
+ST300,South Africa,black,hspSAfrica1
+ST301,South Africa,black,hspSAfrica1
+ST302,South Africa,black,hspSAfrica1
+ST303,South Africa,black,hspSAfrica1
+ST304,South Africa,black,hspSAfrica1
+ST305,South Africa,black,hspSAfrica1
+ST306,South Africa,black,hspSAfrica1
+ST307,South Africa,black,hspSAfrica1
+ST308,South Africa,black,hspSAfrica1
+ST309,South Africa,black,hpAfrica2
+ST310,South Africa,black,hpAfrica2
+ST311,South Africa,black,hpAfrica2
+ST312,South Africa,black,hpAfrica2
+ST313,South Africa,black,hpAfrica2
+ST314,South Africa,black,hpAfrica2
+ST315,South Africa,black,hpAfrica2
+ST316,South Africa,cape coloured,hpEurope
+ST317,South Africa,cape coloured,hpEurope
+ST318,South Africa,cape coloured,hpEurope
+ST319,South Africa,cape coloured,hpEurope
+ST320,South Africa,cape coloured,hspWAfrica1
+ST321,South Africa,cape coloured,hspWAfrica1
+ST322,South Africa,cape coloured,hspWAfrica1
+ST322,South Africa,black,hspWAfrica1
+ST323,South Africa,cape coloured,hspWAfrica1
+ST324,South Africa,cape coloured,hspWAfrica1
+ST325,South Africa,cape coloured,hspWAfrica1
+ST326,South Africa,cape coloured,hspSAfrica1
+ST327,South Africa,cape coloured,hspSAfrica1
+ST328,South Africa,cape coloured,hspSAfrica1
+ST329,South Africa,cape coloured,hspSAfrica1
+ST330,South Africa,cape coloured,hspSAfrica1
+ST331,South Africa,cape coloured,hspSAfrica1
+ST332,South Africa,cape coloured,hspSAfrica1
+ST333,South Africa,cape coloured,hspSAfrica1
+ST334,South Africa,cape coloured,hspSAfrica1
+ST335,South Africa,cape coloured,hspSAfrica1
+ST336,South Africa,cape coloured,hspSAfrica1
+ST337,South Africa,cape coloured,hspSAfrica1
+ST338,South Africa,cape coloured,hspSAfrica1
+ST339,South Africa,cape coloured,hspSAfrica1
+ST340,South Africa,cape coloured,hspSAfrica1
+ST341,South Africa,cape coloured,hspSAfrica1
+ST342,South Africa,cape coloured,hspSAfrica1
+ST343,South Africa,cape coloured,hspSAfrica1
+ST344,South Africa,cape coloured,hspSAfrica1
+ST345,South Africa,cape coloured,hspSAfrica1
+ST346,South Africa,cape coloured,hspSAfrica1
+ST347,South Africa,cape coloured,hspSAfrica1
+ST348,South Africa,cape coloured,hspSAfrica1
+ST349,South Africa,cape coloured,hspSAfrica1
+ST350,South Africa,cape coloured,hspSAfrica1
+ST351,Gambia,-,hspWAfrica1
+ST352,Burkina Faso,-,hspWAfrica1
+ST353,Burkina Faso,-,hspWAfrica1
+ST354,Burkina Faso,-,hspWAfrica1
+ST355,Burkina Faso,-,hspWAfrica1
+ST356,Burkina Faso,-,hspWAfrica1
+ST357,Burkina Faso,-,hspWAfrica1
+ST358,Burkina Faso,-,hspWAfrica1
+ST358,Burkina Faso,-,hspWAfrica1
+ST358,Burkina Faso,-,hspWAfrica1
+ST359,Burkina Faso,-,hspWAfrica1
+ST360,Burkina Faso,-,hspWAfrica1
+ST361,Burkina Faso,-,hspWAfrica1
+ST362,Burkina Faso,-,hspWAfrica1
+ST363,Burkina Faso,-,hspWAfrica1
+ST364,Senegal,-,hspWAfrica1
+ST365,Senegal,-,hspWAfrica1
+ST366,Senegal,-,hspWAfrica1
+ST367,Senegal,-,hspWAfrica1
+ST368,Senegal,-,hspWAfrica1
+ST369,Sudan,Arabic,hpEurope
+ST369,Sudan,Arabic,hpEurope
+ST370,Sudan,Dengue tribe,hpEurope
+ST371,India,Buddhist,-
+ST371,India,Buddhist,-
+ST372,India,Buddhist,-
+ST373,India,Buddhist,-
+ST374,India,Buddhist,-
+ST375,India,Buddhist,-
+ST376,India,Buddhist,-
+ST377,India,Buddhist,-
+ST378,India,Buddhist,-
+ST379,India,Buddhist,-
+ST380,India,Buddhist,-
+ST381,India,Buddhist,-
+ST382,India,Buddhist,-
+ST383,India,Buddhist,-
+ST384,India,Buddhist,-
+ST385,India,Buddhist,-
+ST386,India,Buddhist,-
+ST387,India,Buddhist,-
+ST387,India,Muslim,-
+ST388,India,Buddhist,-
+ST389,India,Buddhist,-
+ST390,India,Buddhist,-
+ST391,India,Buddhist,-
+ST392,India,Buddhist,-
+ST393,India,Buddhist,-
+ST394,India,Buddhist,-
+ST395,India,Buddhist,-
+ST396,India,Buddhist,-
+ST397,India,Buddhist,-
+ST398,India,Buddhist,-
+ST399,India,Buddhist,-
+ST400,India,Buddhist,-
+ST401,India,Buddhist,-
+ST402,China,Asian,-
+ST403,China,Asian,-
+ST404,China,-,-
+ST405,China,-,-
+ST406,China,-,-
+ST407,China,-,-
+ST408,China,-,-
+ST409,China,-,-
+ST410,China,-,-
+ST411,China,-,-
+ST412,China,-,-
+ST413,China,-,-
+ST414,China,-,-
+ST415,New Caledonia,Polynesian,hpEurope
+ST474,Philippines,-,hspWAfrica
+ST478,Taiwan,Chinese,hspEAsia
+ST479,Taiwan,Chinese,hspEAsia
+ST481,Papua New Guinea,Highlander,hpSahul
+ST482,Papua New Guinea,Highlander,hpSahul
+ST483,Spain,Basque,hpEurope
+ST494,China,Chinese,hpEurope
+ST495,Spain,Basque,hpEurope
+ST496,Morocco,-,hspWAfrica
+ST497,China,Chinese,hspEAsia
+ST498,Taiwan,Native Taiwanese,hspMaori
+ST499,Lebanon,Lebanese,hpEurope
+ST500,China,Chinese,hpEurope
+ST501,South Africa,-,hpAfrica2
+ST502,South Africa,-,hpAfrica
+ST502,South Africa,-,hpAfrica
+ST503,South Africa,-,hpAfrica2
+ST504,South Africa,-,hpEurope
+ST504,South Africa,-,hpEurope
+ST505,South Africa,-,hpAfrica2
+ST506,South Africa,-,hpAfrica
+ST506,South Africa,-,hpAfrica
+ST507,South Africa,-,hpAfrica2
+ST507,South Africa,-,hpAfrica2
+ST508,South Africa,-,hpAfrica
+ST508,South Africa,-,hpAfrica
+ST509,South Africa,-,hpEurope
+ST509,South Africa,-,hpEurope
+ST510,South Africa,-,hpAfrica2
+ST511,South Africa,-,hpEurope
+ST511,South Africa,-,hpEurope
+ST512,South Africa,-,hpAfrica2
+ST512,South Africa,-,hpAfrica2
+ST513,South Africa,-,hpAfrica2
+ST514,South Africa,-,hpAfrica
+ST514,South Africa,-,hpAfrica
+ST514,South Africa,-,hpAfrica
+ST514,South Africa,-,hpAfrica
+ST514,South Africa,-,hpAfrica
+ST514,South Africa,-,hpAfrica
+ST514,South Africa,-,hpAfrica
+ST515,South Africa,-,hpAfrica2
+ST516,South Africa,-,hpEurope
+ST516,South Africa,-,hpEurope
+ST517,South Africa,-,hpAfrica2
+ST518,South Africa,-,hpAfrica2
+ST519,South Africa,-,hpAfrica2
+ST520,South Africa,-,hpAfrica2
+ST521,South Africa,-,hpAfrica-Europa
+ST521,South Africa,-,hpAfrica-Europa
+ST522,South Africa,-,hpAfrica
+ST523,South Africa,-,hpEurope
+ST524,South Africa,-,hpAfrica
+ST525,South Africa,-,hpAfrica2
+ST526,South Africa,-,hpAfrica2
+ST527,South Africa,-,hpAfrica2
+ST528,South Africa,-,hpAfrica
+ST529,South Africa,-,hpAfrica
+ST530,South Africa,-,hpEurope
+ST530,South Africa,-,hpEurope
+ST530,South Africa,-,hpEurope
+ST532,Russia,Russian,hpEurope
+ST533,USA,-,hpEurope
+ST534,South Africa,-,hpAfrica
+ST535,USA,-,hpEurope
+ST536,USA,-,hpEurope
+ST536,USA,-,hpEurope
+ST537,USA,-,hpEurope
+ST538,USA,-,hpEurope
+ST539,USA,-,hpEurope
+ST540,USA,-,hpEurope
+ST541,USA,-,hpEurope
+ST542,USA,-,hpEurope
+ST543,Colombia,-,hpEurope
+ST544,Colombia,-,hpAfrica1
+ST545,Colombia,-,hpEurope
+ST546,Colombia,-,hpEurope
+ST546,Colombia,-,hpEurope
+ST547,Colombia,-,hpEurope
+ST548,Colombia,-,hpEurope
+ST549,Colombia,-,hpEurope
+ST550,Korea,-,hpEAsia
+ST551,Korea,-,hpEAsia
+ST551,Korea,-,hpEAsia
+ST551,Korea,-,hpEAsia
+ST552,Colombia,-,hpEurope
+ST553,Korea,-,hpEAsia
+ST554,Korea,-,hpEAsia
+ST555,Korea,-,hpEAsia
+ST555,Korea,-,hpEAsia
+ST556,Colombia,-,hpEurope
+ST557,Korea,-,hpEAsia
+ST557,Korea,-,hpEAsia
+ST558,Colombia,-,hpEurope
+ST558,Colombia,-,hpEurope
+ST559,Korea,-,hpEAsia
+ST560,Korea,-,hpEAsia
+ST561,Korea,-,hpEAsia
+ST562,Korea,-,hpEAsia
+ST563,Korea,-,hpEAsia
+ST564,South Africa,-,hpAfrica
+ST564,South Africa,-,hpAfrica
+ST565,South Africa,-,hpAfrica2
+ST566,South Africa,-,hpAsia2
+ST566,South Africa,-,hpAsia2
+ST567,South Africa,-,hpEurope
+ST567,South Africa,-,hpEurope
+ST567,South Africa,-,hpEurope
+ST567,South Africa,-,hpEurope
+ST568,South Africa,-,hpAfrica
+ST568,South Africa,-,hpAfrica
+ST568,South Africa,-,hpAfrica
+ST569,South Africa,-,hpAfrica2
+ST569,South Africa,-,hpAfrica2
+ST570,South Africa,-,hpAfrica
+ST571,South Africa,-,hpAfrica
+ST571,South Africa,-,hpAfrica
+ST572,South Africa,-,hpAfrica
+ST572,South Africa,-,hpAfrica
+ST573,South Africa,-,hpAfrica
+ST573,South Africa,-,hpAfrica
+ST574,South Africa,-,hpAfrica
+ST575,South Africa,-,hpAfrica
+ST576,South Africa,-,hpAfrica
+ST576,South Africa,-,hpAfrica
+ST577,South Africa,-,hpAfrica
+ST578,South Africa,-,hpAfrica2
+ST579,South Africa,-,hpAfrica
+ST579,South Africa,-,hpAfrica
+ST579,South Africa,-,hpAfrica
+ST579,South Africa,-,hpAfrica
+ST579,South Africa,-,hpAfrica
+ST580,South Africa,-,hpAfrica2
+ST580,South Africa,-,hpAfrica2
+ST581,South Africa,-,hpAfrica2
+ST581,South Africa,-,hpAfrica2
+ST582,South Africa,-,hpEurope
+ST583,South Africa,-,hpAfrica2
+ST583,South Africa,-,hpAfrica2
+ST584,South Africa,-,hpAfrica2
+ST585,South Africa,-,hpAfrica
+ST586,South Africa,-,hpAfrica2
+ST587,South Africa,-,hpAfrica
+ST587,South Africa,-,hpAfrica
+ST588,South Africa,-,hpAfrica
+ST589,South Africa,-,hpAfrica
+ST590,South Africa,-,hpAfrica
+ST591,South Africa,-,hpAfrica2
+ST592,South Africa,-,hpEurope
+ST593,South Africa,-,hpAfrica2
+ST594,UK,-,hpEurope
+ST594,UK,-,hpEurope
+ST595,UK,-,hpEurope
+ST596,UK,-,hpEurope
+ST597,UK,-,hpEurope
+ST597,UK,-,hpEurope
+ST608,Taiwan,Native Taiwanese,hspMaori
+ST610,Venezuela,Mestizo,hspWAfrica
+ST611,Colombia,Mestizo,hpEurope
+ST612,Lebanon,Lebanese,hpEurope
+ST613,Lebanon,Lebanese,hpEurope
+ST614,Morocco,-,hspWAfrica
+ST621,Malaysia,unknown,hspEAsia
+ST623,Australia,Aboriginal,hpSahul
+ST623,Australia,Aboriginal,hpSahul
+ST625,Australia,Aboriginal,hpEurope
+ST626,Australia,Aboriginal,hspSAfrica
+ST628,Australia,Aboriginal,hpEurope
+ST632,Taiwan,Chinese,hspEAsia
+ST633,Taiwan,Chinese,hspEAsia
+ST634,Turkey,Turk,hpEurope
+ST638,Nigeria,Kanuri,hpNEAfrica
+ST648,Colombia,Mestizo,hpEurope
+ST651,Taiwan,Native Taiwanese,hspMaori
+ST652,Spain,Basque,hpEurope
+ST654,Kazakhstan,Kazakh,hpEurope
+ST655,Kazakhstan,Kazakh,hpEurope
+ST656,Kazakhstan,Kazakh,hpEurope
+ST659,Spain,Basque,hpEurope
+ST660,Japan,Japanese,hspEAsia
+ST662,Australia,Aboriginal,hspWAfrica
+ST662,Australia,Aboriginal,hspWAfrica
+ST662,Australia,Aboriginal,hspWAfrica
+ST662,Australia,Aboriginal,hspWAfrica
+ST662,Australia,Aboriginal,hspWAfrica
+ST662,Australia,Aboriginal,hspWAfrica
+ST664,Australia,Aboriginal,hpEurope
+ST666,Vietnam,Vietnamese,hspEAsia
+ST673,Turkey,Turk,hpEurope
+ST674,Taiwan,Native Taiwanese,hspMaori
+ST686,Philippines,-,hpEurope
+ST687,Philippines,unknown,hspMaori
+ST690,Papua New Guinea,Highlander,hpSahul
+ST691,Vietnam,Vietnamese,hspEAsia
+ST692,Taiwan,Chinese,hspEAsia
+ST693,Taiwan,Chinese,hspEAsia
+ST694,Taiwan,Chinese,hspEAsia
+ST695,Taiwan,Chinese,hspEAsia
+ST696,Nigeria,Kanuri,hpNEAfrica
+ST697,Nigeria,Kanuri,hpNEAfrica
+ST698,Nigeria,Kanuri,hpNEAfrica
+ST699,Nigeria,Kanuri,hpNEAfrica
+ST700,Nigeria,Kanuri,hpNEAfrica
+ST701,Nigeria,Kanuri,hpNEAfrica
+ST702,Ethiopia,-,hpNEAfrica
+ST703,Ethiopia,-,hpNEAfrica
+ST704,Taiwan,Native Taiwanese,hspEAsia
+ST705,Ethiopia,-,hpNEAfrica
+ST706,Ethiopia,-,hpNEAfrica
+ST707,Ethiopia,-,hpNEAfrica
+ST708,Ethiopia,-,hpNEAfrica
+ST709,Ethiopia,-,hpNEAfrica
+ST710,Ethiopia,-,hpNEAfrica
+ST711,Ethiopia,-,hpNEAfrica
+ST723,Thailand,unknown,hspEAsia
+ST724,Thailand,unknown,hspEAsia
+ST725,Thailand,unknown,hspEAsia
+ST726,New Caledonia,Polynesian,hspMaori
+ST727,New Caledonia,Polynesian,hspMaori
+ST736,Spain,Basque,hpEurope
+ST747,Australia,Aboriginal,hpEurope
+ST758,Australia,Aboriginal,hpEurope
+ST759,Japan,Japanese,hspEAsia
+ST761,Turkey,Turk,hpEurope
+ST762,Philippines,-,hpEurope
+ST763,Vietnam,Vietnamese,hspEAsia
+ST764,Vietnam,Vietnamese,hspEAsia
+ST765,Vietnam,Vietnamese,hspEAsia
+ST767,Taiwan,Native Taiwanese,hspMaori
+ST768,China,Chinese,hspEAsia
+ST769,Spain,Basque,hpEurope
+ST777,Vietnam,Vietnamese,hspEAsia
+ST778,Germany,German,hpEurope
+ST784,Algeria,-,hpNEAfrica
+ST785,Russia,Russian,hpEurope
+ST786,Russia,Russian,hpEurope
+ST787,Russia,Russian,hpEurope
+ST788,Russia,Russian,hpEurope
+ST805,Taiwan,Chinese,hspEAsia
+ST808,Taiwan,Chinese,hspEAsia
+ST809,Taiwan,Chinese,hspEAsia
+ST810,Taiwan,Chinese,hspEAsia
+ST811,Taiwan,Chinese,hspEAsia
+ST812,Taiwan,Chinese,hspEAsia
+ST829,Papua New Guinea,Highlander,hpSahul
+ST830,Palestine,Palestinian,hpEurope
+ST832,Lebanon,Lebanese,hpEurope
+ST833,Netherlands,European,hpEurope
+ST834,Taiwan,Native Taiwanese,hspEAsia
+ST836,Spain,Basque,hpEurope
+ST849,Australia,European,hpEurope
+ST850,Australia,European,hpEurope
+ST851,Australia,European,hpEurope
+ST852,Australia,European,hpEurope
+ST853,Australia,European,hpEurope
+ST854,Japan,Japanese,hspEAsia
+ST855,Spain,Basque,hpEurope
+ST866,Morocco,-,hspWAfrica
+ST867,Finland,Finn,hpEurope
+ST868,Japan,Japanese,hspEAsia
+ST869,Papua New Guinea,Highlander,hpSahul
+ST870,Japan,Japanese,hspEAsia
+ST871,Philippines,unknown,hspMaori
+ST873,Taiwan,Native Taiwanese,hspMaori
+ST879,Papua New Guinea,Highlander,hpSahul
+ST885,Finland,Finn,hpEurope
+ST890,Spain,Basque,hpEurope
+ST891,Morocco,-,hpEurope
+ST892,Thailand,Thai,hpAsia2
+ST894,China,Chinese,hspEAsia
+ST906,Venezuela,Mestizo,hpEurope
+ST907,Spain,Basque,hpEurope
+ST926,Australia,European,hpSahul
+ST927,Taiwan,Native Taiwanese,hspMaori
+ST929,Australia,European,hpEurope
+ST935,Japan,Japanese,hspEAsia
+ST939,Taiwan,Native Taiwanese,hspMaori
+ST941,Germany,German,hpEurope
+ST942,Germany,German,hpEurope
+ST943,Vietnam,Vietnamese,hpEurope
+ST944,Vietnam,Vietnamese,hspEAsia
+ST946,Papua New Guinea,Highlander,hpSahul
+ST952,Algeria,-,hspWAfrica
+ST954,Germany,German,hpEurope
+ST961,Spain,Basque,hpEurope
+ST964,Russia,Russian,hpEurope
+ST965,Australia,Aboriginal,hpSahul
+ST966,Papua New Guinea,Highlander,hpSahul
+ST967,Australia,Aboriginal,hpEurope
+ST969,Taiwan,Native Taiwanese,hspEAsia
+ST970,Australia,Aboriginal,hpEurope
+ST971,Australia,Aboriginal,hpEurope
+ST972,Australia,Aboriginal,hpEurope
+ST973,Australia,Aboriginal,hpEurope
+ST974,Australia,Aboriginal,hpSahul
+ST975,Australia,Aboriginal,hpEurope
+ST975,Australia,Aboriginal,hpEurope
+ST976,Australia,Aboriginal,hpEurope
+ST977,Australia,Aboriginal,hpEurope
+ST978,Australia,Aboriginal,hpEurope
+ST979,Australia,Aboriginal,hpEurope
+ST980,Papua New Guinea,Highlander,hpSahul
+ST981,Papua New Guinea,Highlander,hpSahul
+ST983,Spain,Basque,hpEurope
+ST984,Vietnam,Vietnamese,hspEAsia
+ST985,Vietnam,Vietnamese,hspEAsia
+ST986,Vietnam,Vietnamese,hspEAsia
+ST987,Spain,Basque,hpEurope
+ST992,Finland,Finn,hpEurope
+ST996,Lebanon,Lebanese,hpEurope
+ST1009,Australia,European,hpEurope
+ST1010,Australia,European,hpEurope
+ST1011,Australia,European,hpEurope
+ST1012,Australia,European,hpEurope
+ST1013,Australia,European,hpEurope
+ST1014,Australia,European,hpEurope
+ST1015,Australia,European,hpEurope
+ST1016,Australia,European,hpEurope
+ST1017,Turkey,Turk,hpEurope
+ST1018,Palestine,Palestinian,hpEurope
+ST1019,Palestine,Palestinian,hpEurope
+ST1024,Russia,Russian,hpEurope
+ST1026,Spain,Basque,hpEurope
+ST1027,Turkey,Turk,hpEurope
+ST1036,Korea,Korean,hspEAsia
+ST1038,Taiwan,Native Taiwanese,hspMaori
+ST1039,Egypt,Arabic,hpEurope
+ST1042,Japan,Japanese,hspEAsia
+ST1043,Taiwan,Native Taiwanese,hspMaori
+ST1045,Papua New Guinea,Highlander,hpEurope
+ST1047,Australia,Aboriginal,hpSahul
+ST1049,Spain,Basque,hpEurope
+ST1050,Russia,Russian,hpEurope
+ST1052,Taiwan,Native Taiwanese,hspMaori
+ST1054,Egypt,Arabic,hpEurope
+ST1055,Australia,Aboriginal,hpEurope
+ST1056,Australia,Aboriginal,hpEurope
+ST1057,Australia,Aboriginal,hpEurope
+ST1062,Australia,Aboriginal,hpEurope
+ST1063,Australia,Aboriginal,hpEurope
+ST1066,Spain,Basque,hpEurope
+ST1067,Taiwan,Native Taiwanese,hspEAsia
+ST1068,Spain,Basque,hpEurope
+ST1069,Germany,German,hpEurope
+ST1070,Thailand,Chinese,hpEurope
+ST1071,Algeria,-,hpEurope
+ST1072,Palestine,Palestinian,hpEurope
+ST1073,Vietnam,Vietnamese,hspEAsia
+ST1074,Vietnam,Vietnamese,hspEAsia
+ST1075,Australia,European,hpEurope
+ST1076,Australia,European,hpEurope
+ST1077,Australia,European,hpEurope
+ST1078,Australia,European,hpEurope
+ST1079,Australia,European,hpEurope
+ST1080,Australia,European,hpEurope
+ST1081,Australia,European,hpEurope
+ST1082,Australia,European,hpEurope
+ST1083,Australia,European,hpEurope
+ST1084,Australia,European,hpEurope
+ST1085,Japan,Japanese,hspEAsia
+ST1086,Palestine,Palestinian,hpEurope
+ST1087,Palestine,Palestinian,hpEurope
+ST1088,Palestine,Palestinian,hpEurope
+ST1089,Palestine,Palestinian,hpEurope
+ST1090,Palestine,Palestinian,hpEurope
+ST1092,Venezuela,Mestizo,hpEurope
+ST1098,Spain,Basque,hpEurope
+ST1107,Taiwan,Native Taiwanese,hspMaori
+ST1110,Philippines,-,hpEurope
+ST1112,Colombia,Mestizo,hpEurope
+ST1114,Belgium,European,hpEurope
+ST1121,Australia,Aboriginal,hspMaori
+ST1126,Taiwan,Native Taiwanese,hspMaori
+ST1129,Taiwan,Native Taiwanese,hspEAsia
+ST1134,Vietnam,Vietnamese,hspEAsia
+ST1135,Vietnam,Vietnamese,hspEAsia
+ST1136,Korea,Korean,duplicate
+ST1137,Taiwan,Native Taiwanese,hspMaori
+ST1141,Taiwan,Native Taiwanese,hspEAsia
+ST1143,Australia,Aboriginal,hpEurope
+ST1144,Australia,Aboriginal,hpEurope
+ST1145,Australia,Aboriginal,hpEurope
+ST1146,Australia,Aboriginal,hpEurope
+ST1147,Australia,Aboriginal,hpEurope
+ST1148,Australia,Aboriginal,hpEurope
+ST1149,Australia,Aboriginal,hpEurope
+ST1150,Australia,Aboriginal,hpEurope
+ST1151,Australia,Aboriginal,hpEurope
+ST1152,Australia,European,hpEurope
+ST1153,Malaysia,unknown,hspEAsia
+ST1154,China,Chinese,hspEAsia
+ST1155,Malaysia,unknown,hpAsia2
+ST1156,Malaysia,unknown,hspEAsia
+ST1158,Taiwan,Native Taiwanese,hspMaori
+ST1161,Papua New Guinea,Highlander,hpSahul
+ST1170,Taiwan,Native Taiwanese,hspMaori
+ST1170,Taiwan,Native Taiwanese,hspMaori
+ST1172,Oman,-,hpEurope
+ST1173,Japan,Japanese,hspEAsia
+ST1176,Spain,Basque,hpEurope
+ST1177,Turkey,Turk,hpEurope
+ST1178,Australia,Aboriginal,hpEurope
+ST1179,Australia,European,hpEurope
+ST1180,Australia,European,hpEurope
+ST1181,Somalia,Arabic,hpNEAfrica
+ST1182,Australia,European,hpEurope
+ST1183,Australia,European,hpEurope
+ST1184,Australia,European,hpEurope
+ST1185,Australia,European,hpEurope
+ST1186,Australia,European,hpEurope
+ST1187,Australia,European,hpEurope
+ST1188,Australia,European,hpEurope
+ST1189,Australia,European,hpEurope
+ST1191,Netherlands,European,hpEurope
+ST1192,Japan,Japanese,hspEAsia
+ST1194,Russia,Russian,hpEurope
+ST1195,Malaysia,unknown,hspEAsia
+ST1205,Netherlands,European,hpEurope
+ST1206,New Caledonia,Melanesian,hspMaori
+ST1207,Colombia,Mestizo,hspWAfrica
+ST1209,New Caledonia,Melanesian,hspMaori
+ST1209,New Caledonia,Polynesian,hspMaori
+ST1211,New Caledonia,Melanesian,hpEurope
+ST1214,Spain,Basque,hpEurope
+ST1216,Spain,Basque,hpEurope
+ST1217,Thailand,Thai,hpEurope
+ST1218,Thailand,Thai,hpAsia2
+ST1219,Thailand,Thai,hpEurope
+ST1220,Thailand,Thai,hpAsia2
+ST1221,Thailand,Chinese,hspEAsia
+ST1222,Thailand,Chinese,hspEAsia
+ST1223,Thailand,Chinese,hspEAsia
+ST1224,Papua New Guinea,Highlander,hpSahul
+ST1225,Papua New Guinea,Highlander,hpSahul
+ST1228,Japan,Japanese,hspEAsia
+ST1229,Taiwan,Native Taiwanese,hspEAsia
+ST1230,Taiwan,Native Taiwanese,hspMaori
+ST1234,Somalia,Arabic,hpNEAfrica
+ST1235,Spain,Basque,hpEurope
+ST1236,China,Chinese,hspEAsia
+ST1237,China,Chinese,hspEAsia
+ST1238,Spain,Basque,hpEurope
+ST1247,Russia,Russian,hpEurope
+ST1248,Russia,Russian,hpEurope
+ST1249,Japan,Japanese,hspEAsia
+ST1250,Spain,Basque,hpEurope
+ST1256,Taiwan,Native Taiwanese,hspMaori
+ST1257,Papua New Guinea,Highlander,hpSahul
+ST1258,Australia,Aboriginal,hpEurope
+ST1258,Australia,Aboriginal,hpEurope
+ST1259,Australia,Aboriginal,hpSahul
+ST1260,Australia,Aboriginal,hpEurope
+ST1261,Australia,Aboriginal,hpSahul
+ST1262,Australia,Aboriginal,hpEurope
+ST1263,Australia,Aboriginal,hpEurope
+ST1264,Australia,Aboriginal,hpEurope
+ST1265,Australia,Aboriginal,hpEurope
+ST1266,Australia,Aboriginal,hpSahul
+ST1267,Australia,Aboriginal,hpEurope
+ST1268,Australia,Aboriginal,hpEurope
+ST1269,Japan,Japanese,hspMaori
+ST1270,Papua New Guinea,Highlander,hpSahul
+ST1271,Australia,Aboriginal,hpSahul
+ST1272,Australia,Aboriginal,hpEurope
+ST1273,Australia,Aboriginal,hspSAfrica
+ST1274,Australia,European,hpEurope
+ST1275,Australia,European,hpEurope
+ST1276,Australia,European,hpEurope
+ST1277,Australia,European,hpEurope
+ST1278,Australia,European,hpEurope
+ST1279,Australia,European,hpEurope
+ST1280,Australia,European,hpEurope
+ST1281,Australia,European,hpEurope
+ST1282,Australia,European,hpEurope
+ST1283,Australia,European,hpEurope
+ST1288,Nigeria,Kanuri,hpNEAfrica
+ST1289,Russia,Russian,hpEurope
+ST1291,Malaysia,unknown,hspEAsia
+ST1293,Turkey,Turk,hpEurope
+ST1307,Philippines,unknown,hpAsia2
+ST1312,Netherlands,European,hpEurope
+ST1315,Netherlands,European,hpAsia2
+ST1316,New Caledonia,Melanesian,hpEurope
+ST1324,Japan,Japanese,hspEAsia
+ST1326,Peru,-,hpEurope
+ST1327,Taiwan,Native Taiwanese,hspMaori
+ST1328,Australia,Aboriginal,hpSahul
+ST1329,Russia,Russian,hpEurope
+ST1330,Australia,Aboriginal,hpEurope
+ST1332,Australia,Aboriginal,hpEurope
+ST1334,Spain,Basque,hpEurope
+ST1335,Spain,Basque,hpEurope
+ST1336,Australia,Aboriginal,hspWAfrica
+ST1337,Philippines,-,hpEurope
+ST1338,Philippines,-,hpEurope
+ST1339,Philippines,-,hpEurope
+ST1340,Australia,Aboriginal,hpEurope
+ST1341,Philippines,unknown,hpAsia2
+ST1342,Philippines,unknown,hpAsia2
+ST1347,China,Chinese,hspEAsia
+ST1349,China,Chinese,hspEAsia
+ST1352,Spain,Basque,hpEurope
+ST1353,Taiwan,Native Taiwanese,hspMaori
+ST1356,Papua New Guinea,Highlander,hpSahul
+ST1357,Australia,Aboriginal,hpSahul
+ST1358,Saudi Arabia,Arabic,hpEurope
+ST1359,Vietnam,Vietnamese,hpEurope
+ST1360,Papua New Guinea,Highlander,hpSahul
+ST1361,Taiwan,Native Taiwanese,hspEAsia
+ST1362,Jordan,Arabic,hpEurope
+ST1363,Vietnam,Vietnamese,hspEAsia
+ST1369,Taiwan,Native Taiwanese,hspMaori
+ST1370,Taiwan,Native Taiwanese,hspMaori
+ST1371,Taiwan,Native Taiwanese,hspMaori
+ST1372,Taiwan,Native Taiwanese,hspMaori
+ST1376,Australia,European,hpEurope
+ST1377,Australia,European,hpEurope
+ST1378,Australia,European,hpEurope
+ST1379,Australia,European,hpEurope
+ST1380,Australia,European,hpEurope
+ST1381,Australia,European,hpEurope
+ST1382,Australia,European,hpEurope
+ST1383,Australia,European,hpEurope
+ST1386,Spain,Basque,hpEurope
+ST1387,Australia,European,hpEurope
+ST1388,Australia,European,hpEurope
+ST1389,Australia,Aboriginal,hspMaori
+ST1390,Ethiopia,-,hpNEAfrica
+ST1391,Ethiopia,-,hpNEAfrica
+ST1392,Ethiopia,-,hpNEAfrica
+ST1393,Ethiopia,-,hpNEAfrica
+ST1394,Ethiopia,-,hpNEAfrica
+ST1395,Ethiopia,-,hpNEAfrica
+ST1396,Ethiopia,-,hpNEAfrica
+ST1397,Ethiopia,-,hpNEAfrica
+ST1399,Ethiopia,-,hpNEAfrica
+ST1400,Australia,Aboriginal,hpSahul
+ST1401,Australia,Aboriginal,hpEurope
+ST1402,Australia,Aboriginal,hpEurope
+ST1403,Australia,Aboriginal,hpEurope
+ST1404,Australia,Aboriginal,hpSahul
+ST1405,Australia,Aboriginal,hpEurope
+ST1405,Australia,Aboriginal,hpEurope
+ST1406,Australia,Aboriginal,hpEurope
+ST1407,Australia,Aboriginal,hpEurope
+ST1408,Australia,Aboriginal,hpSahul
+ST1409,Morocco,-,hpEurope
+ST1411,Thailand,unknown,hspEAsia
+ST1417,Papua New Guinea,Highlander,hpEurope
+ST1423,New Caledonia,Melanesian,hspEAsia
+ST1423,New Caledonia,Polynesian,hspEAsia
+ST1425,Papua New Guinea,Highlander,hpEurope
+ST1426,Japan,Japanese,hspEAsia
+ST1429,Colombia,Mestizo,hpEurope
+ST1431,Kazakhstan,Kazakh,hpEurope
+ST1432,Kazakhstan,Kazakh,hpAsia2
+ST1434,Kazakhstan,Kazakh,hpEurope
+ST1435,Kazakhstan,Kazakh,hpEurope
+ST1436,Japan,Japanese,hspEAsia
+ST1437,Spain,Basque,hpEurope
+ST1438,Spain,Basque,hpEurope
+ST1439,Spain,Basque,hpEurope
+ST1441,Japan,Japanese,hspEAsia
+ST1442,Taiwan,Native Taiwanese,hspMaori
+ST1445,Australia,Aboriginal,hpEurope
+ST1450,Australia,Aboriginal,hpEurope
+ST1451,Australia,Aboriginal,hpSahul
+ST1453,Australia,Aboriginal,hpSahul
+ST1454,Australia,Aboriginal,hpSahul
+ST1455,Australia,Aboriginal,hspWAfrica
+ST1456,Australia,Aboriginal,hpEurope
+ST1457,Germany,German,hpEurope
+ST1458,Australia,European,hpEurope
+ST1459,Australia,European,hpEurope
+ST1460,Australia,European,hpEurope
+ST1461,Australia,European,hpEurope
+ST1461,Australia,European,hpEurope
+ST1462,Australia,European,hpEurope
+ST1463,Australia,European,hpEurope
+ST1464,Australia,European,hpEurope
+ST1465,Australia,European,hpEurope
+ST1467,Australia,European,hpEurope
+ST1469,Taiwan,Native Taiwanese,hspEAsia
+ST1472,Jordan,Arabic,hpEurope
+ST1474,Japan,Japanese,hspEAsia
+ST1475,Taiwan,Native Taiwanese,hspMaori
+ST1476,Taiwan,Native Taiwanese,hspMaori
+ST1479,Algeria,-,hpNEAfrica
+ST1480,Algeria,-,hpEurope
+ST1487,Ethiopia,-,hpNEAfrica
+ST1488,Ethiopia,-,hpNEAfrica
+ST1489,Ethiopia,-,hpNEAfrica
+ST1490,Ethiopia,-,hpNEAfrica
+ST1491,Ethiopia,-,hpNEAfrica
+ST1492,Ethiopia,-,hpNEAfrica
+ST1493,Ethiopia,-,hpNEAfrica
+ST1494,Ethiopia,-,hpNEAfrica
+ST1495,Ethiopia,-,hpNEAfrica
+ST1496,Ethiopia,-,hpNEAfrica
+ST1497,Japan,Japanese,hspEAsia
+ST1498,Germany,German,hpEurope
+ST1499,Thailand,Thai,hpAsia2
+ST1501,Thailand,Chinese,hspEAsia
+ST1502,Thailand,Thai,hpEurope
+ST1503,Thailand,Thai,hpAsia2
+ST1512,Australia,European,hpEurope
+ST1513,Australia,European,hpEurope
+ST1514,Australia,European,hpEurope
+ST1515,Australia,European,hpEurope
+ST1516,Australia,European,hpEurope
+ST1517,Australia,European,hpEurope
+ST1518,Australia,European,hpEurope
+ST1519,Australia,European,hpEurope
+ST1520,Australia,European,hpEurope
+ST1521,New Caledonia,Melanesian,hpEurope
+ST1522,Australia,European,hpEurope
+ST1523,Australia,European,hpEurope
+ST1524,Australia,European,hpEurope
+ST1525,Australia,European,hspSAfrica
+ST1526,Australia,European,hpEurope
+ST1527,Australia,European,hpEurope
+ST1528,Australia,European,hpEurope
+ST1529,Australia,European,hpEurope
+ST1530,Australia,European,hpEurope
+ST1538,Taiwan,Native Taiwanese,hspEAsia
+ST1539,Thailand,unknown,hpAsia2
+ST1540,Thailand,unknown,hspEAsia
+ST1541,Thailand,unknown,hpAsia2
+ST1542,Thailand,-,hpNEAfrica
+ST1544,Thailand,unknown,hspEAsia
+ST1545,Taiwan,Native Taiwanese,hspEAsia
+ST1547,Taiwan,Native Taiwanese,hspMaori
+ST1555,Germany,German,hpEurope
+ST1556,Thailand,unknown,hspEAsia
+ST1557,Germany,German,hpEurope
+ST1558,Thailand,-,hpEurope
+ST1559,Peru,unknown,hspAmerind
+ST1563,Spain,Basque,hpEurope
+ST1566,Spain,Basque,hpEurope
+ST1567,Russia,Russian,hpEurope
+ST1568,Australia,Aboriginal,hpSahul
+ST1569,Russia,Russian,hpEurope
+ST1570,Russia,Russian,hpEurope
+ST1571,Russia,Russian,hpEurope
+ST1572,Russia,Russian,hpEurope
+ST1573,Russia,Russian,hpEurope
+ST1575,France,European,hpEurope
+ST1577,Spain,Basque,hpEurope
+ST1578,Papua New Guinea,Highlander,hpSahul
+ST1579,Taiwan,Native Taiwanese,hspMaori
+ST1580,Australia,European,hspSAfrica
+ST1582,Australia,Aboriginal,hpSahul
+ST1590,Ethiopia,-,hpNEAfrica
+ST1591,Ethiopia,-,hpNEAfrica
+ST1592,Ethiopia,-,hpNEAfrica
+ST1593,Ethiopia,-,hpNEAfrica
+ST1594,Ethiopia,-,hpNEAfrica
+ST1595,Ethiopia,-,hpNEAfrica
+ST1596,Ethiopia,-,hpNEAfrica
+ST1597,Ethiopia,-,hpNEAfrica
+ST1598,Ethiopia,-,hpNEAfrica
+ST1601,Venezuela,Mestizo,hpEurope
+ST1602,Venezuela,Mestizo,hpEurope
+ST1603,Palestine,Palestinian,hpEurope
+ST1604,Palestine,Palestinian,hpEurope
+ST1606,Thailand,Chinese,hspEAsia
+ST1607,New Caledonia,Polynesian,hspMaori
+ST1613,Australia,European,hpEurope
+ST1614,Australia,European,hpEurope
+ST1615,Australia,European,hpEurope
+ST1616,Australia,European,hpEurope
+ST1617,Australia,European,hpEurope
+ST1618,Australia,European,hpEurope
+ST1619,Australia,European,hpEurope
+ST1620,Australia,European,hpEurope
+ST1621,Australia,European,hpEurope
+ST1622,Australia,European,hpEurope
+ST1623,Taiwan,Native Taiwanese,hspMaori
+ST1624,Australia,European,hpEurope
+ST1625,Australia,European,hpEurope
+ST1626,Australia,European,hpEurope
+ST1627,Australia,European,hpEurope
+ST1628,Australia,European,hpEurope
+ST1629,Spain,Basque,hpEurope
+ST1630,Spain,Basque,hpEurope
+ST1631,Thailand,unknown,hspEAsia
+ST1633,Thailand,unknown,hspEAsia
+ST1635,Spain,Basque,hpEurope
+ST1641,China,Chinese,hspEAsia
+ST1645,China,Chinese,hspEAsia
+ST1646,China,Chinese,hspEAsia
+ST1647,China,Chinese,hspEAsia
+ST1651,Korea,Korean,hspEAsia
+ST1662,Taiwan,Native Taiwanese,hspMaori
+ST1665,Thailand,unknown,hspEAsia
+ST1667,Thailand,unknown,hpAsia2
+ST1668,Thailand,unknown,hpAsia2
+ST1669,Thailand,unknown,hspEAsia
+ST1673,Japan,Japanese,hspEAsia
+ST1674,Thailand,Chinese,hspEAsia
+ST1675,China,Chinese,hspEAsia
+ST1676,Taiwan,Chinese,hspEAsia
+ST1677,Ethiopia,-,hpNEAfrica
+ST1678,Ethiopia,-,hpNEAfrica
+ST1679,Ethiopia,-,hpNEAfrica
+ST1680,Ethiopia,-,hpNEAfrica
+ST1681,Ethiopia,-,hpNEAfrica
+ST1682,Ethiopia,-,hpNEAfrica
+ST1684,Ethiopia,-,hpNEAfrica
+ST1685,Ethiopia,-,hpNEAfrica
+ST1694,Taiwan,Native Taiwanese,hspMaori
+ST1696,Vietnam,Vietnamese,hspEAsia
+ST1697,Spain,Basque,hpEurope
+ST1699,New Caledonia,Polynesian,hspSAfrica
+ST1700,Morocco,-,hspWAfrica
+ST1702,Japan,Japanese,hspEAsia
+ST1712,Taiwan,Native Taiwanese,hspMaori
+ST1716,Egypt,Arabic,hpEurope
+ST1717,Turkey,Turk,hpEurope
+ST1718,Taiwan,Native Taiwanese,hspEAsia
+ST1719,Taiwan,Native Taiwanese,hspMaori
+ST1720,Spain,Basque,hpEurope
+ST1721,Spain,Basque,hpEurope
+ST1726,China,Chinese,hspEAsia
+ST1727,Peru,-,duplicate
+ST1728,Peru,-,hpEurope
+ST1732,Germany,German,hpEurope
+ST1733,Australia,Aboriginal,hpEurope
+ST1733,Australia,Aboriginal,hpEurope
+ST1733,Australia,Aboriginal,hpEurope
+ST1733,Australia,Aboriginal,hpEurope
+ST1736,Australia,Aboriginal,hpSahul
+ST1746,Papua New Guinea,Highlander,hpSahul
+ST1747,Papua New Guinea,Highlander,hpSahul
+ST1748,Taiwan,Native Taiwanese,hspEAsia
+ST1749,Papua New Guinea,Highlander,hpSahul
+ST1753,Malaysia,unknown,hpAsia2
+ST1754,Malaysia,unknown,hspEAsia
+ST1755,Malaysia,unknown,hspEAsia
+ST1756,Malaysia,unknown,hspEAsia
+ST1757,Papua New Guinea,Highlander,hpSahul
+ST1759,Vietnam,Vietnamese,hspEAsia
+ST1762,Taiwan,Native Taiwanese,hspMaori
+ST1763,Australia,Aboriginal,hpEurope
+ST1763,Australia,Aboriginal,hpEurope
+ST1765,Australia,Aboriginal,hpSahul
+ST1774,Morocco,-,hspWAfrica
+ST1775,Vietnam,Vietnamese,hspEAsia
+ST1779,Russia,Russian,hpEurope
+ST1787,New Caledonia,Melanesian,hspMaori
+ST1788,New Caledonia,Melanesian,hpEurope
+ST1789,New Caledonia,Melanesian,hspMaori
+ST1790,New Caledonia,Melanesian,hspEAsia
+ST1801,Italy,European,hpEurope
+ST1802,Italy,European,hpEurope
+ST1803,Italy,European,hpEurope
+ST1804,Italy,European,hpEurope
+ST1805,Italy,European,hpEurope
+ST1806,Vietnam,Vietnamese,hspEAsia
+ST1807,Spain,Basque,hpEurope
+ST1810,Taiwan,Native Taiwanese,hspEAsia
+ST1811,China,Chinese,hspEAsia
+ST1812,China,Chinese,hspEAsia
+ST1815,Taiwan,Native Taiwanese,hspMaori
+ST1816,Taiwan,Native Taiwanese,hspMaori
+ST1817,Taiwan,Native Taiwanese,hspMaori
+ST1818,Spain,Basque,hpEurope
+ST1820,Taiwan,Native Taiwanese,hspMaori
+ST1821,Japan,Japanese,hspEAsia
+ST1822,Australia,Aboriginal,hpEurope
+ST1823,Philippines,-,hpEurope
+ST1825,Australia,Aboriginal,hpEurope
+ST1826,Vietnam,Vietnamese,hspEAsia
+ST1841,Taiwan,Native Taiwanese,hspEAsia
+ST1842,Taiwan,Native Taiwanese,hspEAsia
+ST1843,Taiwan,Native Taiwanese,hspMaori
+ST1849,New Caledonia,Melanesian,hpEurope
+ST1850,New Caledonia,Melanesian,hspMaori
+ST1851,New Caledonia,Melanesian,hspMaori
+ST1858,Papua New Guinea,Highlander,hpSahul
+ST1859,Papua New Guinea,Highlander,hpSahul
+ST1862,Russia,Russian,hpEurope
+ST1863,Taiwan,Native Taiwanese,hspMaori
+ST1864,China,Chinese,hspEAsia
+ST1865,China,Chinese,hspEAsia
+ST1866,China,Chinese,hspEAsia
+ST1867,China,Chinese,hspEAsia
+ST1868,China,Chinese,hspEAsia
+ST1869,China,Chinese,hspEAsia
+ST1874,Japan,Japanese,hspEAsia
+ST1875,Spain,Basque,hpEurope
+ST1879,Germany,German,hpEurope
+ST1880,Venezuela,Mestizo,hpEurope
+ST1883,Australia,Aboriginal,hpEurope
+ST1885,Australia,Aboriginal,hpSahul
+ST1887,Australia,Aboriginal,hpSahul
+ST1887,Australia,Aboriginal,hpSahul
+ST1888,Australia,Aboriginal,hpSahul
+ST1888,Australia,Aboriginal,hpSahul
+ST1889,Australia,Aboriginal,hpEurope
+ST1890,Australia,Aboriginal,hpSahul
+ST1910,Japan,Japanese,hspEAsia
+ST1911,Ethiopia,-,hpNEAfrica
+ST1912,Ethiopia,-,hpNEAfrica
+ST1913,Ethiopia,-,hpNEAfrica
+ST1919,Lebanon,Lebanese,hpEurope
+ST1920,Taiwan,Native Taiwanese,hspMaori
+ST1921,Taiwan,Native Taiwanese,hspMaori
+ST1930,Australia,Aboriginal,hpSahul
+ST1931,Australia,Aboriginal,hpSahul

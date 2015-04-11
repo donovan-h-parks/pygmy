@@ -1,0 +1,20 @@
+Sequence Id,Sample Location,Country,Date mm/dd/yy,Time ,Latitude,Longitude,Sample Depth (m),Water Depth (m),T (oC),S (ppt),Size Fraction (?m),Habitat Type,Chl a Sample Month (Annual±SE)            mg m-3,Good Sequences,Geographic Location,Leg
+GS002,Gulf of Maine,USA,8/21/2003,6:32,42.5031,-67.24,1,106,18.2,29.2,0.1-0.8,Coastal (North America),1.4  (1.12±0.19),121590,North American East Coast,1st
+GS003,"Browns Bank, Gulf of Maine",Canada,8/21/2003,11:50,42.8528,-66.2172,1,119,11.7,29.9,0.1-0.8,Coastal (North America),1.4 (1.12±0.19),61605,North American East Coast,1st
+GS004,"Outside Halifax, Nova Scotia",Canada,8/22/2003,5:25,44.1372,-63.6444,2,142,17.3,28.3,0.1-0.8,Coastal (North America),0.4 (0.78±0.17),52959,North American East Coast,1st
+GS005,"Bedford Basin, Nova Scotia",Canada,8/22/2003,16:21,44.6903,-63.6372,1,64,15,30.2,0.1-0.8,Embayment (Contaminated),6 (6.76±0.98),61131,North American East Coast,1st
+GS006,"Bay of Fundy, Nova Scotia",Canada,8/23/2003,10:47,45.1117,-64.9467,1,11,11.2, ,0.1-0.8,Estuary (High Salinity),2.8 (1.87±0.18),59679,North American East Coast,1st
+GS007,Northern Gulf of Maine,Canada,8/25/2003,8:25,43.6322,-66.8472,1,139,17.9,31.7,0.1-0.8,Coastal (North America),1.4 (1.12±0.19),50980,North American East Coast,1st
+GS008,"Newport Harbor, RI",USA,11/16/2003,16:45,41.4858,-71.3511,1,12,9.4,26.5,0.1-0.8,Coastal (North America),2.2 (1.59±0.17),129655,North American East Coast,2nd
+GS009,"Block Island, NY",USA,11/17/2003,10:30,41.0911,-71.6022,1,32,11,31,0.1-0.8,Coastal (North America),4.0 (2.72±0.24),79303,North American East Coast,2nd
+GS010,"Cape May, NJ ",USA,11/18/2003,4:30,38.94,-74.685,1,10,12,31,0.1-0.8,Coastal (North America),2.0 (2.75±0.33),78304,North American East Coast,2nd
+GS011,"Delaware Bay, NJ",USA,11/18/2003,11:30,39.4178,-75.5042,1,8,11, ,0.1-0.8,Estuary,4.8 (9.23±1.02),124435,North American East Coast,2nd
+GS012,"Chesapeake Bay, MD",USA,12/18/2003,11:32,38.9469,-76.4172,13.2,25,1,3.5,0.1-0.8,Estuary,21.0 (15.0±1.01),126162,North American East Coast,3rd
+GS013,"Off Nags Head, NC",USA,12/19/2003,6:28,36.0039,-75.3947,2.1,20,9.3, ,0.1-0.8,Coastal (North America),3.0 (2.24±0.25),138033,North American East Coast,3rd
+GS014,"South of Charleston, SC",USA,12/20/2003,17:12,32.5069,-79.2639,1,31,18.6, ,0.1-0.8,Coastal (North America),1.70 (1.92±0.25),128885,North American East Coast,3rd
+GS015,"Off Key West, FL",USA,1/8/2004,6:25,24.4883,-83.07,1.7,47,25,36,0.1-0.8,Coastal (Caribbean Sea),0.2 (0.27±0.09),127362,Caribbean Sea,3rd
+GS016,Gulf of Mexico,USA,1/8/2004,14:15,24.1747,-84.3444,2,3333,26.4,35.8,0.1-0.8,Coastal (Caribbean Sea),0.16 (0.11±0.01),127122,Caribbean Sea,3rd
+GS017,Yucatan Channel,Mexico,1/9/2004,13:47,20.5225,-85.4136,2,4513,27,35.8,0.1-0.8,Coastal (Caribbean Sea),0.13 (0.09±0.01),257581,Caribbean Sea,3rd
+GS018,Rosario Bank,Honduras,1/10/2004,8:12,18.0367,-83.7847,1.7,4470,27.4,35.4,0.1-0.8,Coastal (Caribbean Sea),0.14 (0.09±0.01),142743,Caribbean Sea,3rd
+GS019,Northeast of Colón,Panama,1/12/2004,9:03,10.7164,-80.2544,1.7,3336,27.7,35.4,0.1-0.8,Coastal (Caribbean Sea),0.23 (0.15±0.02),135325,Caribbean Sea,3rd
+GS020,Lake Gatun,Panama,1/15/2004,10:24,9.1644,-79.8361,2,4.2,28.6,0.1,0.1-0.8,Fresh Water, ,296355,Panama Canal,3rd
