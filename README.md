@@ -8,6 +8,7 @@ Pygmy is a tree viewer for large trees (1 million taxa) and associated metadata.
 
 We are currently setting up a Linux development environment for this project. This project currently has the following 3rd-party dependencies:
 
+* Image: a helper library for creating images (included in /3rd_party)
 * [boost](http://www.boost.org/): free peer-reviewed portable C++ source libraries.
 * [freetype](http://www.freetype.org/): software library to render fonts.
 * [ftgl](http://sourceforge.net/projects/ftgl/): library that uses Freetype2 to simplify rendering fonts in OpenGL applications.
