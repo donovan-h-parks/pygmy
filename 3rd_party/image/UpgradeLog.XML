@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Image">
+</Property><Property Name="Solution File" Value="D:\Development\Projects\Pygmy\library3rd\Image\Image.sln">
+</Property><Property Name="User Options File" Value="D:\Development\Projects\Pygmy\library3rd\Image\Image.suo">
+</Property><Property Name="Date" Value="April-06-15">
+</Property><Property Name="Time" Value="10:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Image.sln" Description="File successfully backed up as D:\Development\Projects\Pygmy\library3rd\Image\Image.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Image.suo" Description="File successfully backed up as D:\Development\Projects\Pygmy\library3rd\Image\Image.suo.old">
+</Event><Event ErrorLevel="0" Project="Image" Source="Image.vcproj" Description="Converting project file 'D:\Development\Projects\Pygmy\library3rd\Image\Image.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Image" Source="Image.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Image" Source="Image.vcproj" Description="Done converting to new project file 'D:\Development\Projects\Pygmy\library3rd\Image\Image.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Image" Source="Image.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Image.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Image.sln" Description="Converted">
+</Event></UpgradeLog>
